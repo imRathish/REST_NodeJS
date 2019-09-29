@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "name": "Ani",
+      "posts": []
+    },
+    {
+      "id": "1",
+      "name": "Sakthi",
+      "posts": [
+        {
+          "id": "0",
+          "title": "Sakthi's first post",
+          "content": "hello",
+          "published": false
+          
+        },
+        {
+          "id": "1",
+          "title": "Sakthi's second post",
+          "content": "world",
+          "published": false
+          
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Mani",
+      "posts": [
+        {
+          "id": "2",
+          "title": "Mani's first post",
+          "content": "Hey there",
+          "published": false
+          
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Thomas",
+      "posts": [
+        {
+          "id": "3",
+          "title": "My first post",
+          "content": "photography",
+          "published": false
+          
+        },
+        {
+          "id": "4",
+          "title": "My second post",
+          "content": "Testing is awsome",
+          "published": false
+          
+        }
+      ]
+    }
+  ]
+}
